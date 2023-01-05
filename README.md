@@ -1,2 +1,2 @@
-# HTML_CSS_Template.3
-Native Project Using HTML CSS (design by Elzero https://elzero.org/ )
+# HTML & CSS Template 3
+This project is a continuation of my journey to learn web development through YouTube tutorials. In this project, I focused on learning the structure of landing pages and some advanced CSS effects. Through this process, I was able to further develop my skills as a web developer and began to understand how I can learn and grow on my own. Overall, this project represents an important step in my journey as a developer and I am excited to continue learning and building new projects.
